@@ -1,9 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ajay George
-===================================================================================================================================  
-Product Maker 
--------------  
+## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ajay George
 
-An accomplished Product Management leader with a proven track record of building award-winning products that elevate the customer experience. Highly skilled in leading product teams efficiently, using data to inform decision-making, and pushing the boundaries of what's possible with progressive experiences. Deep understanding of what it takes to ship valuable mobile features that drive business growth. Possesses strategic vision, creative problem-solving skills, and expertise in product discovery, market fit, product-led growth, agile execution, and product ops management. Well-equipped to drive success for ambitious organizations.  * 🌍  I'm based in Minneapolis, MN * ✉️  You can contact me at [case.top\_0f@icloud.com](mailto:case.top_0f@icloud.com) * 🧠  I'm learning ARKit * ⚡  Wannabe Pizzaioli; Amateur Golfer
+### Product Maker 
+
+An accomplished Product Management leader with a proven track record of building award-winning products that elevate the customer experience. Highly skilled in leading product teams efficiently, using data to inform decision-making, and pushing the boundaries of what's possible with progressive experiences. Deep understanding of what it takes to ship valuable mobile features that drive business growth. Possesses strategic vision, creative problem-solving skills, and expertise in product discovery, market fit, product-led growth, agile execution, and product ops management. Well-equipped to drive success for ambitious organizations.  
+* 🌍  I'm based in Minneapolis, MN 
+* ✉️  You can contact me at [case.top\_0f@icloud.com](mailto:case.top_0f@icloud.com) 
+* 🧠  I'm learning ARKit 
+* ⚡  Wannabe Pizzaioli; Amateur Golfer
 
 ### Skills  
 
